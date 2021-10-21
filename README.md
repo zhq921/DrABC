@@ -10,7 +10,7 @@ Identifying breast cancer patients with DNA repair pathway-related germline path
 
 A phenotype-based GPV risk prediction model named DNA-repair Associated Breast Cancer (DrABC) was developed based on hierarchical neural network architecture and achieved superior performance in identifying GPV carriers among Chinese breast cancer patients.
 
-<center><img src="https://github.com/zhq921/DrABC/blob/main/imgs/DL.png" width = "50%" align="center" /></center>
+<img src="https://github.com/zhq921/DrABC/blob/main/imgs/DL.png" width = "50%" />
 
 ### Comparison with other machine learning algorithms
 
@@ -20,7 +20,7 @@ To evaluate the performance between the DrABC model and other machine learning m
 
 We implemented a website interface (http://gifts.bio-data.cn/) to accommodate extensions to the DrABC model and make it easily accessible to healthcare providers and researchers.
 
-<img src="https://github.com/zhq921/DrABC/blob/main/imgs/workflow.png" width = "70%" align="center" />
+<img src="https://github.com/zhq921/DrABC/blob/main/imgs/workflow.png" width = "70%" />
 
 ### Who do I talk to?
 
