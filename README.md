@@ -17,7 +17,7 @@ This repository provides the code for the paper "DrABC: Deep Learning Accurately
 ### Online tool for the DrABC model
 
 - We implemented a [website](http://gifts.bio-data.cn/) interface (http://gifts.bio-data.cn/) to accommodate extensions to the DrABC model and make it easily accessible to healthcare providers and researchers.
-- ![User guide](https://github.com/zhq921/DrABC/blob/main/imgs/workflow.png)
+![User guide](https://github.com/zhq921/DrABC/blob/main/imgs/workflow.png)
 
 ### Who do I talk to?
 
