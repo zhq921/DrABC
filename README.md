@@ -12,6 +12,8 @@ A phenotype-based GPV risk prediction model named DNA-repair Associated Breast C
 
 ![hierarchical neural network](https://github.com/zhq921/DrABC/blob/main/imgs/DL.png){:height="50%" width="50%"}
 
+<img src="https://github.com/zhq921/DrABC/blob/main/imgs/DL.png" width = "50%" />
+
 ### Comparison with other machine learning algorithms
 
 To evaluate the performance between the DrABC model and other machine learning models, we explored six kinds of common machine learning algorithms, including a fixed grid of Generalized Linear Models (GLMs), a naive Bayes (NB) classifier, five pre-specified Gradient Boosting Machine (GBM) models, three pre-specified and a random grid of eXtreme Gradient Boosting (XGBoost) models, a default Random Forest (RF), a near-default Deep Neural Net (DNN) and a random grid of DNNs.
