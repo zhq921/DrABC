@@ -1,6 +1,6 @@
-# DrABC
+# The DNA-repair pathway Associated Breast Cancer (DrABC) Calculator
 
-This repository provides the code for the paper "DrABC: Deep Learning Accurately Predicting Germline Pathogenic Mutation Status in Breast Cancer Patients Based on Phenotype Data".
+This repository provides the code for the paper "DrABC: Deep Learning Accurately Predicts Germline Pathogenic Mutation Status in Breast Cancer Patients Based on Phenotype Data".
 
 ### BACKGROUND
 
